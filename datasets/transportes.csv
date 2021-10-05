@@ -1,11 +1,11 @@
-Gênero,Posse de carro,Custo de viagem,Nível de renda,Modo de transporte
-Masculino,0,Barato,Baixo,Ônibus
-Masculino,1,Barato,Médio,Ônibus
-Fêmea,1,Barato,Médio,Trem
-Fêmea,0,Barato,Baixo,Ônibus
-Masculino,1,Barato,Médio,Ônibus
-Masculino,0,Padrão,Médio,Trem
-Fêmea,1,Padrão,Médio,Trem
-Fêmea,1,Caro,Alto,Carro
-Masculino,2,Caro,Médio,Carro
-Fêmea,2,Caro,Alto,Carro
+Gender,Car ownership,Travel Cost,Income Level,Transportation mode
+Male,0,Cheap,Low,Bus
+Male,1,Cheap,Medium,Bus
+Female,1,Cheap,Medium,Train
+Female,0,Cheap,Low,Bus
+Male,1,Cheap,Medium,Bus
+Male,0,Standard,Medium,Train
+Female,1,Standard,Medium,Train
+Female,1,Expensive,High,Car
+Male,2,Expensive,Medium,Car
+Female,2,Expensive,High,Car
