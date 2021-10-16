@@ -1,0 +1,19 @@
+CÓDIGOS PARA PLANO DE AVALIAÇÃO DELL ACADEMY
+
+PARA PLOTAR UMA MATRIZ ESPARSA DO MEU CONJUNTO DE DADOS, DISPENSANDO OS VALORES COM 0
+Então o DataFrame.sparse.from_spmatrix recebe uma matriz esparsa (variável matriz_esparsa) e nos retorna um Dataframe (variável DataFrame).
+
+pandas.DataFrame.sparse.from_spmatrix(bag_of_words, columns=vetorizar.get_feature_names())
+
+
+PARA GERAR A NUVEM DE PALAVRAS (WORD CLOUD) / LINK DA PÁGINA https://amueller.github.io/word_cloud/references.html
+WordCloud([font_path, width, height, …])
+
+OBS: Para contruir a nuvem de palavras é necessário ter uma variável que armazene todas essas palavras. 
+Deverá ser usado List Comprehensions
+
+Curso Alura de PLN:
+https://github.com/alura-cursos/introducao-ao-pln-com-python
+
+Pandas
+https://pandas.pydata.org/pandas-docs/stable/user_guide/sparse.html#sparse-migration
